@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Chenjie Xu
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/chenjie-xu/)
-
 [![ChenjiXu's github stats](https://github-readme-stats.vercel.app/api?username=ChenjieXu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 😄 I'm a Computer Vision Engineer
