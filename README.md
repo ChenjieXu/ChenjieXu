@@ -6,8 +6,6 @@
 
 🔭 I’m currently working on Kaggle Competitions.
 
-Supported by JetBrains's Open Source Support Program
-
 <!--
 **ChenjieXu/ChenjieXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
