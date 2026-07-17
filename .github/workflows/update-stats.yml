@@ -34,5 +34,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/stats.svg
           git diff --cached --quiet && exit 0
-          git commit -m "Refresh profile stats"
+          git commit \
+            -m "Keep profile statistics current" \
+            -m "Constraint: Profile statistics are regenerated daily from public GitHub data
+          Confidence: high
+          Scope-risk: narrow
+          Directive: Preserve repository-local generation unless a self-hosted endpoint is intentionally adopted
+          Tested: GitHub Action generated profile/stats.svg
+          Not-tested: Private repository contributions"
           git push
