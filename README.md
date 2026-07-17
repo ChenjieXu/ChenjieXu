@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chenjie Xu
 
-[![ChenjiXu's github stats](https://github-readme-stats.vercel.app/api?username=ChenjieXu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![ChenjieXu's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
 😄 I'm a Computer Vision Engineer
 
