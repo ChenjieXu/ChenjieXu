@@ -1,22 +1,11 @@
-### Hi there 👋 I'm Chenjie Xu
+# Chenjie Xu
 
-[![ChenjieXu's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
+Computer vision engineer at Baosight · Part-time PhD student at Shanghai Jiao Tong University.
 
-😄 I'm a Computer Vision Engineer
+iFLYTEK 2025 Single-Object Tracking **1st Place**. Kaggle **Silver** in JPX (89 / 2,033 teams) and **Bronze** in RSNA 2022 (95 / 883 teams).
 
-🔭 I’m currently working on Kaggle Competitions.
+Creator of [BaoIAD](https://github.com/Baosight-xVue/BaoIAD), an industrial anomaly detection framework, and maintainer of [pyzxing](https://github.com/ChenjieXu/pyzxing), a Python wrapper for ZXing.
 
-<!--
-**ChenjieXu/ChenjieXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Website](https://chenjiexu.github.io/) · [LinkedIn](https://www.linkedin.com/in/chenjiexu/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
